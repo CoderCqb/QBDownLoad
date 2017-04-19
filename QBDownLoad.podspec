@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "QBDownLoad"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "简单易用的多任务下载器"
 
   # This description is used to generate tags and improve search results.
